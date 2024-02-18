@@ -1,13 +1,13 @@
 ---
 layout: post
-title: "Welcome to Lagrange!"
-author: "Paul Le"
+title: "一种不能遗弃的美德!"
+author: "ken bai"
 categories: journal
 tags: [documentation,sample]
 image: mountains.jpg
 ---
 
-Lagrange is a minimalist Jekyll theme. The purpose of this theme is to provide a simple, clean, content-focused blogging platform for your personal site or blog. Below you can find everything you need to get started.
+如果说细雨滋润了它珍爱的大地，那么我想说是绿叶的润泽让它茁壮成长，是阳光的照耀让它从懵懂的小孩变成了一个成熟的少年。从那一刻起，我便一直拥有一种默默无闻的美德。没有华丽的词藻，没有强烈的感情，它只是简单的情感。初冬的一个下午，我和妈妈在公园里散步。一位阿姨和一位叔叔因为喝了不该喝的饮料，就引起了争执。
 
 ## Getting Started
 
