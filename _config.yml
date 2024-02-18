@@ -1,5 +1,6 @@
 # Site Build Settings
 
+theme: jekyll-theme-minimal
 # Jekyll-paginate-v2 configuration
 #  pagination:
 #   enabled: true
